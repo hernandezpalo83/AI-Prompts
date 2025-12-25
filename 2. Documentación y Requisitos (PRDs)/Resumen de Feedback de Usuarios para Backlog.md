@@ -1,0 +1,1 @@
+He recibido los siguientes 20 comentarios de usuarios sobre [FUNCIÓN]: [PEGAR COMENTARIOS]. Identifica los 3 problemas principales, clasifícalos por severidad (Alta, Media, Baja) y propón una solución técnica para cada uno que podamos añadir al backlog.

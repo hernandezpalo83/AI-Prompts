@@ -1,0 +1,1 @@
+Tengo las siguientes 5 funcionalidades en mi backlog: [LISTA]. Evalúalas utilizando el framework RICE (Reach, Impact, Confidence, Effort). Asigna una puntuación del 1 al 10 a cada variable basándote en [CONTEXTO DE TU APP] y genera una tabla comparativa priorizada.

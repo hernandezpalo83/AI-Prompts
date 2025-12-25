@@ -1,0 +1,1 @@
+Basado en la funcionalidad [NOMBRE], redacta 3 User Stories siguiendo el formato: "Como [ROL], quiero [ACCIÓN], para [VALOR]". Para cada una, incluye criterios de aceptación detallados utilizando la sintaxis Gherkin (Given/When/Then). Asegúrate de incluir los "Edge Cases" o casos de error técnicos.

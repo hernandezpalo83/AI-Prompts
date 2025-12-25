@@ -1,0 +1,1 @@
+Tengo que explicar a mi CEO por qué necesitamos invertir el próximo sprint en [REFACTORIZAR / ACTUALIZAR INFRAESTRUCTURA]. No entiende términos técnicos. Redacta un argumento que se enfoque en: reducción de costes a largo plazo, mitigación de riesgos de caída del servicio y aumento de la velocidad de entrega de futuras funcionalidades.

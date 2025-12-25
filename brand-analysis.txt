@@ -1,0 +1,9 @@
+"Actúa como un Consultor Senior de Marca Personal y un Headhunter especializado en Product Management. Analiza mi web hernandezpalo.es y mi trayectoria como desarrollador. Mi objetivo es ser percibido como un PM que domina la tecnología, la gestión de equipos y las metodologías ágiles.
+
+Dime:
+
+3 puntos débiles en mi comunicación actual que me hacen parecer 'demasiado técnico' y poco enfocado a negocio.
+
+3 logros técnicos de mi pasado que debería reformular como 'logros de producto'.
+
+Propón un titular (Headline) para mi LinkedIn que fusione perfectamente mis dos mundos (Dev + PM) para el mercado de 2026."

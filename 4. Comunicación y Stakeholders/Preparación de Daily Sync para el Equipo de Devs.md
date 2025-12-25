@@ -1,0 +1,1 @@
+Actúa como un Scrum Master facilitador. Redacta un mensaje para el canal de Slack del equipo que resuma los objetivos del sprint actual, resalte los bloqueos conocidos y motive al equipo a centrarse en el Sprint Goal, evitando tecnicismos innecesarios pero manteniendo el rigor técnico.

@@ -1,0 +1,1 @@
+Actúa como un Arquitecto de Software y un Product Manager. He recibido esta petición de negocio: [DESCRIPCIÓN]. Analiza los posibles retos técnicos (escalabilidad, seguridad, dependencias) y sugiere 3 enfoques: un MVP rápido (No-code/Low-code), una solución robusta y una solución escalable a largo plazo.

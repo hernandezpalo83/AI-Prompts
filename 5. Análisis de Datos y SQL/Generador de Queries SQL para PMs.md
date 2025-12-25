@@ -1,0 +1,1 @@
+Tengo una base de datos con las tablas "users", "subscriptions" y "events". Necesito una query SQL que me devuelva la tasa de retención (Retention Rate) de los usuarios que se registraron en los últimos 30 días y que han utilizado la funcionalidad [X] al menos 3 veces.
