@@ -1,0 +1,20 @@
+[
+  {
+    "id": "tech-debt-translator",
+    "title": "Traductor de Deuda Técnica",
+    "category": "Strategy",
+    "tags": ["ROI", "Business", "Stakeholders"],
+    "description": "Traduce problemas de arquitectura a impacto en negocio para conseguir recursos.",
+    "prompt": "Explica a un perfil de [perfil_stakeholder] por qué es crítico refactorizar [modulo]. Enfócate en la reducción de riesgos y la mejora del Time-to-Market futuro.",
+    "variables": ["perfil_stakeholder", "modulo"]
+  },
+  {
+    "id": "rice-prioritization",
+    "title": "Priorización Framework RICE",
+    "category": "Strategy",
+    "tags": ["Prioritization", "RICE", "Backlog"],
+    "description": "Calcula la prioridad de funcionalidades basándose en datos.",
+    "prompt": "Evalúa estas funcionalidades: [lista_features]. Usa el framework RICE (Reach, Impact, Confidence, Effort) puntuando del 1 al 10 basándote en un contexto de [tipo_producto].",
+    "variables": ["lista_features", "tipo_producto"]
+  }
+]

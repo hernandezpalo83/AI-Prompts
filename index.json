@@ -1,0 +1,98 @@
+[
+  {
+    "id": "gherkin-gen-01",
+    "title": "Generador de Historias de Usuario",
+    "category": "Delivery",
+    "tags": [
+      "Scrum",
+      "Jira",
+      "Technical"
+    ],
+    "description": "Transforma una idea técnica en una User Story con formato Gherkin.",
+    "prompt": "Actúa como un PM Técnico. Basado en [funcionalidad], redacta una User Story con criterios de aceptación Given/When/Then. Incluye notas técnicas para el equipo de desarrollo.",
+    "variables": [
+      "funcionalidad"
+    ]
+  },
+  {
+    "id": "tech-debt-translator",
+    "title": "Traductor de Deuda Técnica",
+    "category": "Strategy",
+    "tags": [
+      "Stakeholders",
+      "Business",
+      "Architecture"
+    ],
+    "description": "Ayuda a explicar a perfiles de negocio la necesidad de refactorizar.",
+    "prompt": "Explica a un stakeholder de perfil [perfil_interesado] por qué es crítico abordar la deuda técnica en [modulo_sistema]. Enfócate en el ROI y la reducción de riesgos.",
+    "variables": [
+      "perfil_interesado",
+      "modulo_sistema"
+    ]
+  },
+  {
+    "id": "tech-feasibility-01",
+    "title": "Análisis de Viabilidad Técnica",
+    "category": "Discovery",
+    "tags": [
+      "Architecture",
+      "Feasibility",
+      "MVP"
+    ],
+    "description": "Evalúa la factibilidad técnica de una idea de negocio antes de desarrollarla.",
+    "prompt": "Actúa como un Arquitecto de Software y un Product Manager. Analiza la petición: [peticion]. Sugiere retos técnicos de escalabilidad y 3 enfoques: MVP rápido, solución robusta y solución a largo plazo.",
+    "variables": [
+      "peticion"
+    ]
+  },
+  {
+    "id": "sql-gen-pm",
+    "title": "Generador de Queries SQL",
+    "category": "Discovery",
+    "tags": [
+      "Data",
+      "SQL",
+      "Analysis"
+    ],
+    "description": "Genera consultas SQL para que el PM analice datos sin depender de ingeniería.",
+    "prompt": "Tengo las tablas [tablas]. Necesito una query SQL que devuelva [metrica] de los usuarios que han realizado [accion] en los últimos [dias] días.",
+    "variables": [
+      "tablas",
+      "metrica",
+      "accion",
+      "dias"
+    ]
+  },
+  {
+    "id": "tech-debt-translator",
+    "title": "Traductor de Deuda Técnica",
+    "category": "Strategy",
+    "tags": [
+      "ROI",
+      "Business",
+      "Stakeholders"
+    ],
+    "description": "Traduce problemas de arquitectura a impacto en negocio para conseguir recursos.",
+    "prompt": "Explica a un perfil de [perfil_stakeholder] por qué es crítico refactorizar [modulo]. Enfócate en la reducción de riesgos y la mejora del Time-to-Market futuro.",
+    "variables": [
+      "perfil_stakeholder",
+      "modulo"
+    ]
+  },
+  {
+    "id": "rice-prioritization",
+    "title": "Priorización Framework RICE",
+    "category": "Strategy",
+    "tags": [
+      "Prioritization",
+      "RICE",
+      "Backlog"
+    ],
+    "description": "Calcula la prioridad de funcionalidades basándose en datos.",
+    "prompt": "Evalúa estas funcionalidades: [lista_features]. Usa el framework RICE (Reach, Impact, Confidence, Effort) puntuando del 1 al 10 basándote en un contexto de [tipo_producto].",
+    "variables": [
+      "lista_features",
+      "tipo_producto"
+    ]
+  }
+]

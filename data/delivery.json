@@ -1,0 +1,20 @@
+[
+  {
+    "id": "gherkin-gen-01",
+    "title": "Generador de Historias de Usuario",
+    "category": "Delivery",
+    "tags": ["Scrum", "Jira", "Technical"],
+    "description": "Transforma una idea técnica en una User Story con formato Gherkin.",
+    "prompt": "Actúa como un PM Técnico. Basado en [funcionalidad], redacta una User Story con criterios de aceptación Given/When/Then. Incluye notas técnicas para el equipo de desarrollo.",
+    "variables": ["funcionalidad"]
+  },
+  {
+    "id": "tech-debt-translator",
+    "title": "Traductor de Deuda Técnica",
+    "category": "Strategy",
+    "tags": ["Stakeholders", "Business", "Architecture"],
+    "description": "Ayuda a explicar a perfiles de negocio la necesidad de refactorizar.",
+    "prompt": "Explica a un stakeholder de perfil [perfil_interesado] por qué es crítico abordar la deuda técnica en [modulo_sistema]. Enfócate en el ROI y la reducción de riesgos.",
+    "variables": ["perfil_interesado", "modulo_sistema"]
+  }
+]

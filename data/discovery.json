@@ -1,0 +1,20 @@
+[
+  {
+    "id": "tech-feasibility-01",
+    "title": "Análisis de Viabilidad Técnica",
+    "category": "Discovery",
+    "tags": ["Architecture", "Feasibility", "MVP"],
+    "description": "Evalúa la factibilidad técnica de una idea de negocio antes de desarrollarla.",
+    "prompt": "Actúa como un Arquitecto de Software y un Product Manager. Analiza la petición: [peticion]. Sugiere retos técnicos de escalabilidad y 3 enfoques: MVP rápido, solución robusta y solución a largo plazo.",
+    "variables": ["peticion"]
+  },
+  {
+    "id": "sql-gen-pm",
+    "title": "Generador de Queries SQL",
+    "category": "Discovery",
+    "tags": ["Data", "SQL", "Analysis"],
+    "description": "Genera consultas SQL para que el PM analice datos sin depender de ingeniería.",
+    "prompt": "Tengo las tablas [tablas]. Necesito una query SQL que devuelva [metrica] de los usuarios que han realizado [accion] en los últimos [dias] días.",
+    "variables": ["tablas", "metrica", "accion", "dias"]
+  }
+]
