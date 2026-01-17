@@ -1,11 +1,5 @@
 [
     {
-        "title": "1",
-        "category": "1",
-        "description": "133",
-        "prompt": "1321312312"
-    },
-    {
         "id": "tech-debt-translator",
         "title": "Traductor de Deuda Técnica",
         "category": "Strategy",
