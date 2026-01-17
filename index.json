@@ -79,5 +79,11 @@
             "lista_features",
             "tipo_producto"
         ]
+    },
+    {
+        "title": "Redacta historia de usuario",
+        "category": "Us",
+        "description": "Ayuda a redactar una user story",
+        "prompt": "Actúa como un Product Owner senior con amplia experiencia en Scrum y productos digitales.\r\n\r\nA partir del siguiente requisito o necesidad de negocio que te voy a indicar, debes:\r\n\r\n1. Analizar el contexto y el objetivo del requisito.\r\n2. Identificar el valor de negocio y el problema que se quiere resolver.\r\n3. Redactar la Historia de Usuario siguiendo el formato Scrum:\r\n   - Como [tipo de usuario]\r\n   - Quiero [funcionalidad o acción]\r\n   - Para [beneficio o valor]\r\n\r\n4. Definir claramente:\r\n   - Descripción funcional detallada\r\n   - Alcance incluido\r\n   - Fuera de alcance\r\n   - Suposiciones y dependencias\r\n\r\n5. Especificar los Requisitos Funcionales, numerados y redactados de forma clara y verificable.\r\n\r\n6. Incluir los Criterios de Aceptación, preferiblemente usando formato Given / When / Then.\r\n\r\n7. Añadir:\r\n   - Prioridad (según valor de negocio)\r\n   - Riesgos o consideraciones relevantes\r\n   - Notas para UX/UI o técnica si aplica\r\n\r\n8. Mantener un lenguaje claro, orientado a negocio y entendible tanto para stakeholders como para el equipo de desarrollo.\r\n\r\n---\r\n\r\n### Requisito de entrada:\r\n> [Aquí el usuario describe su necesidad o requisito]\r\n\r\nGenera toda la información de forma estructurada y alineada con las buenas prácticas de Scrum."
     }
 ]
