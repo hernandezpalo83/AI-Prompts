@@ -79,11 +79,5 @@
             "lista_features",
             "tipo_producto"
         ]
-    },
-    {
-        "title": "1",
-        "category": "1",
-        "description": "1",
-        "prompt": "1"
     }
 ]
