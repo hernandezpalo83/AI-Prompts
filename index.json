@@ -1,18 +1,9 @@
 [
     {
-        "id": "gherkin-gen-01",
-        "title": "Generador de Historias de Usuario",
-        "category": "Delivery",
-        "tags": [
-            "Scrum",
-            "Jira",
-            "Technical"
-        ],
-        "description": "Transforma una idea técnica en una User Story con formato Gherkin.",
-        "prompt": "Actúa como un PM Técnico. Basado en [funcionalidad], redacta una User Story con criterios de aceptación Given/When/Then. Incluye notas técnicas para el equipo de desarrollo.",
-        "variables": [
-            "funcionalidad"
-        ]
+        "title": "1",
+        "category": "1",
+        "description": "133",
+        "prompt": "1321312312"
     },
     {
         "id": "tech-debt-translator",
